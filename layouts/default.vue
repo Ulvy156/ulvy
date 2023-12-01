@@ -7,7 +7,7 @@
     </header>
 
     <!-- main content -->
-    <main class="min-h-screen w-full sm:mt-[78px] md:mt-[70px] lg:mt-[70px] xl:mt-[80px] mb-10 dark:text-white">
+    <main class="min-h-screen w-full sm:mt-[78px] md:mt-[70px] lg:mt-[70px] xl:mt-[80px] mb-10 dark:text-white dark:bg-black">
         <Nuxt />
     </main>
 
