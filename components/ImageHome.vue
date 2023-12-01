@@ -5,7 +5,7 @@
         <p class="md:text-[30px] sm:text-[20px] lg:text-[50px] xl:text-[50px] ">Welcome to my virtual corner on the web!👋🌐</p>
         <p class="md:text-[30px] sm:text-[20px] lg:text-[50px] xl:text-[50px] gradient font-[600] typing-text">I'm Ulvy Romy <br> Web Developer </p>
     </div>
-    <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" class="w-1/2 h-fit" viewBox="0 0 863 826.71426" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" class="w-1/2 h-fit " viewBox="0 0 863 826.71426" xmlns:xlink="http://www.w3.org/1999/xlink">
         <title>laravel and vue</title>
         <path d="M908.58458,346.02969C863.66819,169.40825,708.46793,41.91226,526.2964,36.79851,429.98777,34.095,328.64421,66.0363,254.85863,177.81049c-131.89969,199.80845,8.10555,337.88223,105.7135,403.49213a610.75776,610.75776,0,0,1,126.24112,113.4651c65.931,78.23772,192.76719,175.45908,343.82337,23.12816C940.12233,607.48624,938.50333,463.677,908.58458,346.02969Z" transform="translate(-168.5 -36.64287)" fill="#f2f2f2" />
         <path d="M1030.5,739.35713c0,43.35436-189.18913,124-427.5,124s-434.5-75.64564-434.5-119,196.18913-38,434.5-38S1030.5,696.00278,1030.5,739.35713Z" transform="translate(-168.5 -36.64287)" fill="#3f3d56" />
