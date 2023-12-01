@@ -4,6 +4,7 @@
     <ImageHome/>
     <AboutMe/>
     <SkillCom/>
+    <ContactMe/>
 </div>
 </template>
 
@@ -11,11 +12,13 @@
 import ImageHome from "~/components/ImageHome.vue"
 import AboutMe from "~/components/AboutMe.vue";
 import SkillCom from "~/components/SkillCom.vue"
+import ContactMe from "~/components/ContactMe.vue";
 export default {
   components:{
     ImageHome,
     AboutMe,
-    SkillCom
+    SkillCom,
+    ContactMe
   }
 }
 </script>

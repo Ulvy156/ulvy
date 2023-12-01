@@ -2,7 +2,7 @@
 <template>
 <div id="homepage" class="grid grid-cols-2  m-auto">
     <div class="w-1/2 grid grid-cols-1">
-        <p class="md:text-[30px] sm:text-[20px] lg:text-[50px] xl:text-[50px] ">{{typedText}}</p>
+        <p class="md:text-[30px] sm:text-[20px] lg:text-[50px] xl:text-[50px] ">Welcome to my virtual corner on the web!👋🌐</p>
         <p class="md:text-[30px] sm:text-[20px] lg:text-[50px] xl:text-[50px] gradient font-[600] typing-text">I'm Ulvy Romy <br> Web Developer </p>
     </div>
     <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" class="w-1/2 h-fit" viewBox="0 0 863 826.71426" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -71,28 +71,11 @@
 export default {
     data() {
         return {
-            text: "Welcome to my virtual corner on the web!👋🌐",
-            typingSpeed: 50, // Adjust typing speed (in milliseconds)
-            typedText: ""
+
         }
     },
 
-    mounted() {
-        this.type();
-    },
-
-    methods: {
-        type() {
-            let index = 0;
-            const typingInterval = setInterval(() => {
-                this.typedText += this.text[index];
-                index++;
-                if (index === this.text.length) {
-                    clearInterval(typingInterval);
-                }
-            }, this.typingSpeed);
-        }
-    },
+   
 }
 </script>
 
@@ -109,12 +92,4 @@ export default {
 }  
 
 
-  @keyframes typing-animation {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
 </style>
