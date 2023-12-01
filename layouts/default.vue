@@ -1,6 +1,6 @@
 <!-- layouts/default.vue -->
 <template>
-<div>
+<div class="dark:bg-black">
     <!-- Your header content -->
     <header class="w-full fixed top-0 z-[990]">
         <NavBar />
